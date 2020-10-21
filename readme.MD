@@ -4,13 +4,13 @@
 Motion detection from : https://github.com/jjoe64/android-motion-detection
 
 ## 사용된 기술
-	- # 음성인식
-		android.speech 라이브러리 내부의 RecognitionListener, RecognizerIntent, SpeechRecognizer를 사용
-	- # 이미지분석
-		Motion detection from : https://github.com/jjoe64/android-motion-detection
-	- # 터치 이벤트
-		android.webview의 dispatchTouchEvent(...) 사용
+# 음성인식
+	android.speech 라이브러리 내부의 RecognitionListener, RecognizerIntent, SpeechRecognizer를 사용
+# 이미지분석
+	Motion detection from : https://github.com/jjoe64/android-motion-detection
+# 터치 이벤트
+	android.webview의 dispatchTouchEvent(...) 사용
 
 ## 세부설명
-	# 음성인식
-		
+# 음성인식
+
